@@ -1,0 +1,10 @@
+0 Nothing
+1 Apple
+2 Pad
+3 Disinfectant
+4 Glass
+5 Newspaper
+6 Vegetables
+7 Mobile
+8 Old Shoes
+9 Plastic Bottle
